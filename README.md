@@ -1,3 +1,5 @@
 # Pomodoro
 Our group has decided to build a simple yet effective time management website. The website will be a multi-user incorporating the pomodoro technique which is a time management method based on a 25 minute stretch of full concentration working with 5 minute intervals of breaks, and also 15 minutes break for every 4 loops of the pomodoro timer. The timer is a pure front-end. In various research it proves that the timer is very effective in its nature to help the user focus more on their work. Beside the pomodoro timer our website also includes a to do list for the user to list their to do work and also delete their list when it's done. The to-do list will be related to the database so each account can have different lists. All and all that summarize what we are going to do for this project for the meantime.
-![Uploading Screenshot 2025-01-17 at 13.50.54 1.png…]()
+<img width="1440" alt="Screenshot 2025-01-17 at 13 50 54 1" src="https://github.com/user-attachments/assets/64fb5180-6056-471e-a6fc-843a5b2e29f8" />
+<img width="1440" alt="Screenshot 2025-01-17 at 13 51 15" src="https://github.com/user-attachments/assets/c8ba2797-983b-49f8-8880-95a25b3c0136" />
+<img width="1440" alt="Screenshot 2025-01-17 at 13 51 05" src="https://github.com/user-attachments/assets/c2f75c30-8c29-4254-a128-0a3eea740730" />
